@@ -1,0 +1,11 @@
+{records: {
+  "id": "7413c534-fbf8-4eb9-b1df-b524a8985d85",
+  "firstName": "Kai",
+  "lastName": "Kai",
+  "email": "kai@kai.com",
+  "mobile": "888",
+  "isActivated": false,
+  "userTypes": "consumer",
+  "location": [],
+  "restaurants": []
+}}
